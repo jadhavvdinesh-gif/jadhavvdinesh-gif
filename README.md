@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Linux Administration & Full Stack Web Projects  <br> I’m looking to collaborate on Web Development and Open Source Projects  <br> I’m looking for help with Advanced Linux & DevOps   I’m currently learning React, System Design & Cloud  <br> Ask me about Linux, PHP, MySQL, HTML, CSS  <br> Fun fact: I can manage servers and build websites too 😄  
+ I’m currently working on Linux Administration & Full Stack Web Projects  <br> I’m looking to collaborate on Web Development and Open Source Projects  <br> I’m looking for help with Advanced Linux & DevOps   I’m currently learning React, System Design & Cloud  <br> Ask me about Linux, PHP, MySQL, HTML, CSS  <br> 
 
 
 ## 🌐 Socials:
